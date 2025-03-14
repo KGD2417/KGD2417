@@ -46,9 +46,6 @@ I'm a passionate **Flutter & Android developer** and **full-stack enthusiast** w
 📊 **Tech Stack Usage**  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KGD2417&layout=compact&theme=tokyonight)  
 
-📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KGD2417&show_icons=true&theme=radical)  
-
 ### 🗳️ **NextElect - Blockchain Voting System**
 A **secure and transparent blockchain-based voting system** built with **Flutter, Node.js, and Solidity**.  
 🚀 **Technologies:** Flutter, Node.js, Solidity, Web3.js  
