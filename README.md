@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a passionate **AI/ML, Web3, App developer** and **full-stack enthusiast** who loves building **cross-platform applications** and exploring new technologies. I focus on creating **scalable, user-centric, and high-performance applications**.
+I'm a passionate **AI/ML, Web3, App and Web developer** and **full-stack enthusiast** who loves building **cross-platform applications** and exploring new technologies. I focus on creating **scalable, user-centric, and high-performance applications**.
 
 ---
 
